@@ -1,7 +1,7 @@
 #
 # GitLab CI: Android v0.2
 #
-# link to docker hub here
+# https://hub.docker.com/r/victoroben/gitlab-ci-android/
 #
 
 FROM ubuntu:17.10
